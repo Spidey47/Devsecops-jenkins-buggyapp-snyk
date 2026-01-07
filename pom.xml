@@ -305,9 +305,9 @@
 #By ASecurityGuru
 -->
 	<plugin>
-    <groupId>org.sonarsource.scanner.maven</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.8.4.2361</version>
+      <groupId>org.sonarsource.scanner.maven</groupId>
+      <artifactId>sonar-maven-plugin</artifactId>
+      <version>3.8.4.2361</version>
     </plugin>
     <plugin>
       <groupId>io.snyk</groupId>
